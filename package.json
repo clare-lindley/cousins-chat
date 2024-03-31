@@ -11,5 +11,8 @@
   "dependencies": {
     "@types/node": "^20.2.5",
     "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.3"
   }
 }
